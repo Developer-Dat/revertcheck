@@ -1,0 +1,10 @@
+we are checking reverse fetures here
+
+i am initial commit into main branch
+
+revert is useful features of git
+
+here we will check revert of revert
+
+revert of revert means we will discard merge changes and after that we will merge with
+ another branch and then we will revert back the discard changes

@@ -2,14 +2,9 @@ we are checking reverse fetures here
 
 i am initial commit into main branch
 
-i am added from queue branches
-
 revert is useful features of git
 
 here we will check revert of revert
 
 revert of revert means we will discard merge changes and after that we will merge with
  another branch and then we will revert back the discard changes
-
-here we will merge queue branch with main then discard this merge changes and then 
-merge from log branch and then revert back queue branch changes
